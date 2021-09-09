@@ -1,0 +1,21 @@
+{
+  "name": "updated-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "captcha-canvas": "^2.3.1",
+    "chalk": "^4.1.2",
+    "discord.js": "^13.1.0",
+    "figlet": "^1.5.2",
+    "fs": "^0.0.1-security",
+    "js-yaml": "^3.13.1",
+    "moment-timezone": "^0.5.33",
+    "mongoose": "^6.0.3"
+  }
+}

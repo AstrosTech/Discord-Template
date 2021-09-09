@@ -1,0 +1,28 @@
+########################################
+#                                      #
+#        Astro Tech Development        #
+#                                      #
+########################################
+
+########################################
+#                                      #
+#       Important Configuration        #
+#                                      #
+########################################
+Token: ODY0MjQ0NDg0ODUzMzM0MDU5.YOyoZg.Ne8gWfwOTQOkljsNTPxcxHrXCiU
+MongoDBURL: mongodb+srv://Astro:sOK3kMzS8fVB7kXt@cluster0.mejke.mongodb.net/LicenseTest?retryWrites=true&w=majority
+Prefix:
+  - "."
+  - "-"
+  - "`"
+  - "="
+  - "?"
+
+########################################
+#                                      #
+#        General Configuration         #
+#                                      #
+########################################
+ServerName: Astro Tech
+ServerColor: 33D458
+GuildID: "864243948867158046"
