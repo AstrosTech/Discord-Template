@@ -9,8 +9,8 @@
 #       Important Configuration        #
 #                                      #
 ########################################
-Token: ODY0MjQ0NDg0ODUzMzM0MDU5.YOyoZg.Ne8gWfwOTQOkljsNTPxcxHrXCiU
-MongoDBURL: mongodb+srv://Astro:sOK3kMzS8fVB7kXt@cluster0.mejke.mongodb.net/LicenseTest?retryWrites=true&w=majority
+Token:
+MongoDBURL:
 Prefix:
   - "."
   - "-"
