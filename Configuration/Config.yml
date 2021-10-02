@@ -26,3 +26,22 @@ Prefix:
 ServerName: Astro Tech
 ServerColor: 33D458
 GuildID: "864243948867158046"
+
+
+ExampleEmbed:
+  Title: "Astro Tech"
+  Color: "{ServerColor}"
+  Description: "Astro Tech Embed Generator"
+  Author: "Made by Astro#8173"
+  Fields:
+    Random1:
+      Name: "Custom Place Holder Example 1"
+      Value: "{ExamplePlaceHolder}"
+      Inline: true 
+    Random2:
+      Name: "Custom Place Holder Example 1"
+      Value: "{AstrosDiscord}"
+      Inline: true 
+  Image: "https://i.gyazo.com/16d9d240b90b927cabb29e7ab68301a8.png"
+  Thumbnail: "{AvatarURL}"
+  Footer: "{ServerName} • {TimeStamp}"
